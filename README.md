@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Yoshihiro Ashida 👋
 
-<!--
-**ash1day/ash1day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer at [Wantedly, Inc.](https://www.wantedly.com/) — building user-facing features with Ruby, TypeScript, gRPC, and GraphQL in a microservices architecture on Kubernetes.
 
-Here are some ideas to get you started:
+## [TFTips](https://tftips.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I solo-build and operate **TFTips** — a Japanese-language [Teamfight Tactics](https://teamfighttactics.leagueoflegends.com/) strategy site serving **3M+ monthly page views** (peak ~4.8M).
+
+I handle everything end-to-end: infrastructure, backend, frontend, ad monetization, and community tournament tooling.
+
+**Stack:** Next.js · TypeScript · Tailwind CSS · PostgreSQL · Cloudflare Workers
+
+## Certification
+
+- AWS Certified Developer – Associate (DVA-C02)
+
+## Tech
+
+`Ruby` `TypeScript` `Next.js` `Node.js` `PostgreSQL` `gRPC` `Protocol Buffers` `GraphQL` `Cloudflare Workers` `Kubernetes` `Tailwind CSS`
