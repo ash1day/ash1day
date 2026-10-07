@@ -1,12 +1,14 @@
 # ash1day
 
-Backend engineer at [Wantedly, Inc.](https://www.wantedly.com/)
-Building user-facing features with Ruby, TypeScript, gRPC, and GraphQL in a microservices architecture on Kubernetes.
+Backend engineer at [Wantedly, Inc.](https://www.wantedly.com/), building user-facing features with Ruby, TypeScript, gRPC, and GraphQL in a microservices architecture on Kubernetes.
 
-## [TFTips](https://tftips.app) — 月間300万PV+のTFT攻略サイト
+Previously a game engineer at DeNA, working with C++.
 
-Solo-built and operated. Peak ~4.8M monthly page views.
-Infrastructure, backend, frontend, ad monetization, tournament tooling — all one person.
+I graduated from Kyoto University with a degree in electrical and electronic engineering.
+
+## [TFTips](https://tftips.app) — A TFT strategy and community site
+
+Built and operated solo, with peak traffic of approximately 4.8 million monthly page views. I develop the frontend, backend, tournament tools, and infrastructure, and manage ad monetization.
 
 > Next.js · TypeScript · Tailwind CSS · PostgreSQL · Cloudflare Workers
 
